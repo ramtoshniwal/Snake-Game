@@ -1,4 +1,4 @@
-# Snake-Game
+# Java Snake: A Classic Reimagined
 
 **Description:**
 
